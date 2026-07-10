@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterviewCoach.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc42ad9b209edae1156ac519154ccbebb8575b2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ea73fa1b9482995e02c1da9dc009d1c18a3694b")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterviewCoach.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterviewCoach.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
